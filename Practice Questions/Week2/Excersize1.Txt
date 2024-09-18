@@ -1,0 +1,36 @@
+Exercise 1 : In the real world, different objects interact with each other to accomplish some tasks in a system. You have to design a hospital management system. In order to successfully model the system for an object-oriented computer implementation, you need to do the following tasks. (5)
+1.	Identify at least 5 objects/classes (other than doctor and patient) of the system: 
+
+Nurses, Drugs, Equipment, Wards, OT 
+
+
+2.	Identify the relevant attributes and behaviours of following classes
+
+a.	Doctor
+
+Attributes
+i.	DoctorID
+ii.	Doctor_Name
+iii.	Practice
+iv.	Schedule
+
+Behaviours
+i. prescribe()
+ii. diagnose()
+iii. surgery()
+iv. takeBreak()
+
+
+b.	Patient
+
+Attributes
+i.	PatientID
+ii.	PatientName
+iii.	PatientAge
+iv.	Medicalrecords
+
+Behaviours
+i.	SeeDoctor()
+ii.	BookAppointment()
+iii.	AcquireMedication()
+iv.	TakeMedication()
