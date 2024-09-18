@@ -15,6 +15,6 @@ This repository is intended for educational purposes only and serves as a demons
 By accessing this repository, you agree to use the content only as a reference and not for academic dishonesty or any other form of misconduct. **Any misuse of this repository, including plagiarism or cheating, is solely the responsibility of the individual involved, and I assume no liability for such actions.**
 
 ## Purpose
-This repository serves as a comprehensive collection of my work during the third semester, highlighting my growth and development as a software developer. The QAPs represent key milestone projects that were graded and assessed, contributing to my overall learning experience.
+This repository serves as a comprehensive collection of my work during the third semester, highlighting my growth and development as a software developer. 
 
 Feel free to explore the code and projects to get an idea of my progress throughout the course!
