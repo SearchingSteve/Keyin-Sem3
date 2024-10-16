@@ -1,4 +1,4 @@
-package Task1;
+package Practice.Week3.Task1;
 
 public class Circle {
     // Constant value of PI for area calculations (using double for more precision)

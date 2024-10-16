@@ -1,6 +1,6 @@
-package Task2.b;
+package Practice.Week3.Task2.b;
+import Practice.Week3.Task2.a.MyPoint;
 
-import Task2.a.MyPoint; // Importing the MyPoint class to use for the triangle vertices
 
 public class MyTriangle {
     // Instance variables to store the vertices of the triangle

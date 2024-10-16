@@ -1,4 +1,4 @@
-package Task3;
+package Practice.Week3.Task3;
 
 public class Invoice {
     // Instance variables

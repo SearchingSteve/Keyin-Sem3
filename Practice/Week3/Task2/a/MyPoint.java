@@ -1,4 +1,4 @@
-package Task2.a;
+package Practice.Week3.Task2.a;
 
 public class MyPoint {
     // Instance variables to store the coordinates of the point

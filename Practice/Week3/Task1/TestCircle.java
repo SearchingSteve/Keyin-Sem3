@@ -1,4 +1,4 @@
-package Task1;
+package Practice.Week3.Task1;
 public class TestCircle {
     public static void main(String[] args){
         // Create two Circle objects using parameterized constructer

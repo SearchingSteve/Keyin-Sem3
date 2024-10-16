@@ -1,5 +1,6 @@
-package Task2.b;
-import Task2.a.MyPoint;
+package Practice.Week3.Task2.b;
+import Practice.Week3.Task2.a.MyPoint;
+
 public class TestMyTriangle {
     public static void main(String[] args){
         // Create two MyTriangle objects using parameterized constructer

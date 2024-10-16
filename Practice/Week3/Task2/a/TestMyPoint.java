@@ -1,4 +1,4 @@
-package Task2.a;
+package Practice.Week3.Task2.a;
 public class TestMyPoint {
 
     public static void main(String[] args){
