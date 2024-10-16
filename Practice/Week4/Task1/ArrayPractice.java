@@ -1,7 +1,21 @@
 package Practice.Week4.Task1;
 import java.util.Arrays;
+/**
+ * This class provides various array manipulation methods. The methods included cover:
+ * - Summing elements of an array and calculating the average.
+ * - Incrementing every element in an array.
+ * - Storing squares and cubes of elements in new arrays.
+ * - Finding the largest element and its index in an array.
+ * - Searching for an element in an array and returning its index.
+ * - Counting the number of odd and even numbers in an array.
+ * - Sorting an array in both ascending and descending orders.
+ * - Finding the second largest and second smallest elements.
+ * - Printing repeated numbers and their frequencies.
+ * - Merging two sorted arrays into one sorted array.
+ * - Inserting an element at a specific position in an array.
+ * - Deleting a specified element from an array.
+ */
 public class ArrayPractice {
-
     // 1. Calculate Sum & Average of all elements of an integer Array size 10.
     public static void sumAndAverage(int[] arr) {
         int sum = 0;

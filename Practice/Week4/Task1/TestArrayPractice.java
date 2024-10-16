@@ -1,7 +1,21 @@
 package Practice.Week4.Task1;
 import java.util.Arrays;
-
-
+/**
+ * This class tests various array manipulation methods defined in the ArrayPractice class.
+ * It includes tests for:
+ * - Summing elements and calculating the average.
+ * - Incrementing all elements by 1.
+ * - Generating squares and cubes of array elements.
+ * - Finding the largest element and its index.
+ * - Searching for an element and counting iterations.
+ * - Counting odd and even numbers.
+ * - Sorting an array in ascending and descending order.
+ * - Finding the second largest and smallest elements.
+ * - Finding repeated numbers with their frequencies.
+ * - Merging two sorted arrays.
+ * - Inserting an element at a specific position.
+ * - Deleting an element from the array.
+ */
 public class TestArrayPractice {
 
     public static void main(String[] args) {
