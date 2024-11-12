@@ -5,5 +5,7 @@
 .vscode/
 *.code-workspace
 
-# Microsoft Word Files
+# Microsoft Word and PDF Files
 Practice Questions/Week3/Week 3 Task & Practice.docx
+Practice/Week5/Week 5 Work.pdf
+Practice/Week6/Abstract classes & Interfaces Lab work.doc
