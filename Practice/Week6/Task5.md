@@ -1,6 +1,7 @@
 ## Task 5
 
 ### 1: Class Hierarchy
+<img width="420" alt="Screenshot 2024-11-12 at 5 00 09 PM" src="https://github.com/user-attachments/assets/596b4fbd-5fa6-4f27-9cd2-6f4f493827a9">
 
 ### 2: Theoretical questions
 
