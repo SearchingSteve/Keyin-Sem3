@@ -1,6 +1,5 @@
 package Practice.Week6.Task3;
 
-// TestMovable.java
 public class TestMovable {
     public static void main(String[] args) {
         Movable m1 = new MovablePoint(5, 6, 10, 15);

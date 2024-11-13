@@ -1,6 +1,6 @@
 package Practice.Week6.Task4;
 
-// TestResizableCircle.java
+// Test ResizableCircle class
 public class TestResizableCircle {
     public static void main(String[] args) {
         System.out.println(":");

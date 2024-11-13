@@ -2,6 +2,7 @@ package Practice.Week6.Task1;
 
 class Square extends Rectangle {
 
+    // Constructors
     public Square() {
         super.width = 1.0;
         super.length = 1.0;
@@ -15,6 +16,7 @@ class Square extends Rectangle {
         super(side, side, color, filled);
     }
 
+    // Getters and Setters
     public double getSide() {
         return width;
     }

@@ -1,8 +1,7 @@
 package Practice.Week6.Task3;
 
-// MovablePoint.java
 public class MovablePoint implements Movable {
-    int x, y, xSpeed, ySpeed;  // Package access
+    int x, y, xSpeed, ySpeed; // Package access
 
     // Constructor
     public MovablePoint(int x, int y, int xSpeed, int ySpeed) {
@@ -12,6 +11,7 @@ public class MovablePoint implements Movable {
         this.ySpeed = ySpeed;
     }
 
+    // Abstract methods 
     @Override
     public void moveUp() {
         y -= ySpeed;

@@ -1,6 +1,6 @@
 package Practice.Week6.Task4;
 
-// Resizable.java
+// Resizable interface
 public interface Resizable {
     void resize(int percent);
 }

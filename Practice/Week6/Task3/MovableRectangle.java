@@ -1,6 +1,5 @@
 package Practice.Week6.Task3;
 
-// MovableRectangle.java
 public class MovableRectangle implements Movable {
     private MovablePoint topLeft;
     private MovablePoint bottomRight;

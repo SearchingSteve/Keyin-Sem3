@@ -11,7 +11,9 @@ public class TestAnimal {
         BigDog bigDog1 = new BigDog();
         bigDog1.greeting();
 
-        // Using Polymorphism Animal animal1 = new Cat(); animal1.greeting();
+        // Using Polymorphism
+        Animal animal1 = new Cat();
+        animal1.greeting();
         Animal animal2 = new Dog();
         animal2.greeting();
         Animal animal3 = new BigDog();

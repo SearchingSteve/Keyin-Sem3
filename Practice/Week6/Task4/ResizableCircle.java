@@ -1,6 +1,6 @@
 package Practice.Week6.Task4;
 
-// ResizableCircle.java
+// ResizableCircle class extends Circle class and implements Resizable interface
 public class ResizableCircle extends Circle implements Resizable {
 
     // Constructor

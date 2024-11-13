@@ -1,7 +1,7 @@
 package Practice.Week6.Task3;
 
-// MovableCircle.java
 public class MovableCircle implements Movable {
+    // Instance variables
     private MovablePoint center;
     private int radius;
 
@@ -11,6 +11,7 @@ public class MovableCircle implements Movable {
         this.radius = radius;
     }
 
+    // Abstract methods declared in the interface Movable
     @Override
     public void moveUp() {
         center.moveUp();

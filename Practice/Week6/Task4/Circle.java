@@ -1,6 +1,6 @@
 package Practice.Week6.Task4;
 
-// Circle.java
+// Circle class implements GeometricObject interface
 public class Circle implements GeometricObject {
     protected double radius;
 

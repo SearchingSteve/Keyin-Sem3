@@ -1,6 +1,6 @@
 package Practice.Week6.Task4;
 
-// TestCircle.java
+// Test Circle class
 public class TestCircle {
     public static void main(String[] args) {
         System.out.println("");
