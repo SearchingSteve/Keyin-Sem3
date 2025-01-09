@@ -1,4 +1,4 @@
-# Keyin-Sem3-Java-Practice
+# Practice-Java-Sem3
 
 ## Overview
 This repository contains several basic practice java problems organized by each week they were completed for the 3rd Semester of the software development program at Keyin College.
