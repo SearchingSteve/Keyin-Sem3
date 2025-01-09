@@ -1,9 +1,9 @@
 
-# Practice-Java-Sem3
+# Sem3-Practice-Java
 
 ## Project Overview
 
-The **Practice-Java-Sem3** repository contains solutions to a series of basic Java practice problems, organized by week. These problems were completed as part of the 3rd semester of the Software Development program at Keyin College. The repository serves as a demonstration of my growing skills in Java programming, focusing on topics such as algorithms, object-oriented programming, and data structures.
+This repository contains solutions to a series of basic Java practice problems, organized by week. These problems were completed as part of the 3rd semester of the Software Development program at Keyin College. The repository serves as a demonstration of my growing skills in Java programming, focusing on topics such as algorithms, object-oriented programming, and data structures.
 
 ## Key Features
 
