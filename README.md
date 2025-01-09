@@ -1,7 +1,7 @@
-# Keyin-Sem3-Practice
+# Keyin-Sem3-Java-Practice
 
 ## Overview
-This repository contains all the work I completed as a software development student during my third semester at Keyin College. Currently just holding practice problems. Check out my other repositorys to see the graded assigments (QAP's) I have completed during this semsester.
+This repository contains several basic practice java problems organized by each week they were completed for the 3rd Semester of the software development program at Keyin College.
 
 ## Usage Policy
 This repository is intended for educational purposes only and serves as a demonstration of my progress as a software development student. **Unauthorized copying, redistribution, or use of this code for academic purposes, such as submitting it as your own work, is strictly prohibited.**
